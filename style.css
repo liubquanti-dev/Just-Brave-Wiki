@@ -321,7 +321,7 @@ p
 
     transition: background-color 0.5s;
 
-    background-color: #243b53;
+    background-color: #60afee;
     margin: 10px;
     padding: 10px;
     border-radius: 10px;
@@ -333,7 +333,7 @@ p
 .socialbutton:hover
 {
 
-    background-color: #334e68;
+    background-color: #4989bd;
 
 }
 
