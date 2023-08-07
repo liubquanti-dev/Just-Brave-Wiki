@@ -267,15 +267,6 @@ p
 
 }
 
-.text-h
-{
-
-    text-align: center;
-    width: 80%;
-    margin: auto;
-
-}
-
 .text-a
 {
 
@@ -378,6 +369,20 @@ p
 {
 
     transform: rotate(10deg);
+
+}
+
+.seasoncover
+{
+
+    display: block;
+    margin: auto;
+    width: 90%;
+    border-radius: 50px;
+    border: solid 5px;
+    border-color: #60afee;
+    margin-bottom: 10px;
+    margin-top: 10px;
 
 }
 
