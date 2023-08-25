@@ -337,41 +337,6 @@ p
 
 }
 
-.under
-{
-
-    text-align: center;
-    margin-bottom: 20px;
-
-}
-
-.lang-panel
-{
-    
-    width: fit-content;
-    margin: auto;
-
-
-}
-
-
-.lang
-{
-
-    transition: transform 0.5s;
-
-    width: 40px;
-    margin-inline: 10px;
-
-}
-
-.lang:hover
-{
-
-    transform: rotate(10deg);
-
-}
-
 .seasoncover
 {
 
