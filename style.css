@@ -23,25 +23,7 @@ body::-webkit-scrollbar
 
 }
 
-h1
-{
-
-    text-align: center;
-    margin: auto;
-    padding: 5px;
-
-}
-
-h2
-{
-
-    text-align: center;
-    margin: auto;
-    padding: 5px;
-
-}
-
-h3
+h1, h2, h3, h4, h5, h6
 {
 
     text-align: center;
