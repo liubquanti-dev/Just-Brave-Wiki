@@ -284,6 +284,26 @@ p
 
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+}
+
+.rectangle {
+    background-color: #cd4545;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+    position: fixed;
+    bottom: 0;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
 
 
 @media only screen and (max-width: 600px)
