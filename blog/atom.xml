@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jbrave.fun/blog/</id>
+    <title>Just Brave Blog</title>
+    <updated>2024-02-13T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jbrave.fun/blog/"/>
+    <subtitle>Just Brave Blog</subtitle>
+    <icon>https://jbrave.fun/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Блог]]></title>
+        <id>https://jbrave.fun/blog/2024/02/13/changelog</id>
+        <link href="https://jbrave.fun/blog/2024/02/13/changelog"/>
+        <updated>2024-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Оновлено сайт!]]></summary>
+        <content type="html"><![CDATA[<p>Оновлено сайт!</p>]]></content>
+        <category label="changelog" term="changelog"/>
+    </entry>
+</feed>

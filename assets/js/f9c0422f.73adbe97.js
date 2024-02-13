@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjust_brave_site=self.webpackChunkjust_brave_site||[]).push([[134],{324:e=>{e.exports=JSON.parse('{"label":"changelog","permalink":"/blog/tags/changelog","allTagsPath":"/blog/tags","count":1}')}}]);
