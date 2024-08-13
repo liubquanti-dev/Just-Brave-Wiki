@@ -11,7 +11,7 @@ const config = {
 	title: 'Just Brave',
 	tagline:
 		'Офіційний сайт Terraria сервера Just Brave.',
-	url: 'https://jbrave.fun',
+	url: 'https://wiki.jbrave.fun',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
