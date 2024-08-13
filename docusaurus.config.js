@@ -82,7 +82,7 @@ const config = {
 				logo: {
 					alt: 'Логотип Just Brave',
 					src: 'img/logo-small.png',
-					href: '/',
+					href: 'https://jbrave.fun',
 				},
 				items: [
 					{
