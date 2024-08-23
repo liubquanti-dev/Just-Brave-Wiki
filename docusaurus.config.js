@@ -8,7 +8,7 @@ const linebreakPlugins = require('./src/plugins/linebreakPlugin');
 const blogAuthorWidgetPlugin = require('./src/plugins/blogAuthorWidgetPlugin');
 
 const config = {
-	title: 'Just Brave',
+	title: 'Just Brave Wiki',
 	tagline:
 		'Офіційний сайт Terraria сервера Just Brave.',
 	url: 'https://wiki.jbrave.fun',
@@ -17,7 +17,7 @@ const config = {
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.png',
 	organizationName: 'White-Heart-Dev',
-	projectName: 'Just-Brave-Site',
+	projectName: 'Just-Brave-Wiki',
 
 	i18n: {
 		defaultLocale: "uk",
@@ -30,7 +30,7 @@ const config = {
 			({
 				docs: {
 					sidebarPath: require.resolve('./sidebars.js'),
-					editUrl: 'https://github.com/liubquanti-dev/Just-Brave-Site/edit/main/',
+					editUrl: 'https://github.com/liubquanti-dev/Just-Brave-Wiki/edit/main/',
 					path: 'wiki',
 					routeBasePath: '/',
 					remarkPlugins: [linebreakPlugins, inviteWidgetPlugin, userWidgetInlinePlugin],
@@ -78,17 +78,18 @@ const config = {
 				respectPrefersColorScheme: true,
 			},
 			navbar: {
-				title: 'Just Brave',
+				title: 'Just Brave Wiki',
 				logo: {
 					alt: 'Логотип Just Brave',
 					src: 'img/logo-small.png',
-					href: 'https://jbrave.fun',
+					href: '/',
 				},
 				items: [
 					{
-						to: '/',
-						label: 'Вікі',
+						to: 'https://jbrave.fun',
+						label: 'Сайт',
 						position: 'left',
+						target: '_self',
 					},
 					{
 						to: 'blog',
@@ -96,7 +97,7 @@ const config = {
 						position: 'left',
 					},
 					{
-						href: 'https://github.com/liubquanti-dev/Just-Brave-Site',
+						href: 'https://github.com/liubquanti-dev/Just-Brave-Wiki',
 						className: 'navbar-item-github',
 						position: 'right',
 					},

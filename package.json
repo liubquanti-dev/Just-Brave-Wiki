@@ -1,6 +1,6 @@
 {
-  "homepage" : "https://jbrave.fun",
-  "name": "just-brave-site",
+  "homepage" : "https://wiki.jbrave.fun",
+  "name": "just-brave-wiki",
   "version": "0.0.0",
   "private": true,
   "scripts": {
