@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjust_brave_wiki=self.webpackChunkjust_brave_wiki||[]).push([[879],{8879:(e,s,k)=>{k.r(s)}}]);
