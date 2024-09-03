@@ -78,18 +78,18 @@ const config = {
 				respectPrefersColorScheme: true,
 			},
 			navbar: {
-				title: 'Just Brave Wiki',
+				title: 'Just Brave',
 				logo: {
 					alt: 'Логотип Just Brave',
 					src: 'img/logo-small.png',
-					href: '/',
+					href: 'https://jbrave.fun',
+					target: '_self',
 				},
 				items: [
 					{
-						to: 'https://jbrave.fun',
-						label: 'Сайт',
+						to: '/',
+						label: 'Вікі',
 						position: 'left',
-						target: '_self',
 					},
 					{
 						to: 'blog',
