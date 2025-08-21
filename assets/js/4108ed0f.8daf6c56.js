@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjust_brave_wiki=self.webpackChunkjust_brave_wiki||[]).push([[372],{2080:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
