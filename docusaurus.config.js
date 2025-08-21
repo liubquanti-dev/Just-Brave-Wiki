@@ -11,7 +11,7 @@ const config = {
 	title: 'Just Brave Wiki',
 	tagline:
 		'Офіційний сайт Terraria сервера Just Brave.',
-	url: 'https://wiki.jbrave.fun',
+	url: 'https://jbravewiki.liubquanti.click',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
@@ -82,7 +82,7 @@ const config = {
 				logo: {
 					alt: 'Логотип Just Brave',
 					src: 'img/logo-small.png',
-					href: 'https://jbrave.fun',
+					href: 'https://jbravewiki.liubquanti.click',
 					target: '_self',
 				},
 				items: [
