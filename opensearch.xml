@@ -4,8 +4,8 @@
   <ShortName>Just Brave Wiki</ShortName>
   <Description>Search Just Brave Wiki</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://jbrave.liubquanti.click/img/favicon.png</Image>
-  <Url type="text/html" method="get" template="https://jbrave.liubquanti.click/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://jbrave.liubquanti.click/opensearch.xml" />
-  <moz:SearchForm>https://jbrave.liubquanti.click/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://jbravewiki.liubquanti.click/img/favicon.png</Image>
+  <Url type="text/html" method="get" template="https://jbravewiki.liubquanti.click/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://jbravewiki.liubquanti.click/opensearch.xml" />
+  <moz:SearchForm>https://jbravewiki.liubquanti.click/</moz:SearchForm>
 </OpenSearchDescription>
